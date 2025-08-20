@@ -1,1 +1,1 @@
-Hi this out git repository
+Hi this our git repositoriy
